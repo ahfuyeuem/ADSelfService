@@ -6,7 +6,7 @@ namespace ADSelfService
 {
     public partial class Default : System.Web.UI.Page
     {
-        private const string DefaultPassword = "!QAZ2wsx"; // Default Passowrd
+        private const string DefaultPassword = "Password"; // Default Passowrd
 
         protected void Page_Load(object sender, EventArgs e)
         {
